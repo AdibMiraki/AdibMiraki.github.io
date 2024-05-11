@@ -12,23 +12,20 @@ Hi! I'm Adib Miraki, a computational biologist from Sanger Institute who works o
     2020-2022
   
 ## Key Skills
-•	Micro Array, Bulk, Single-cell RNA-seq and Spatial transcriptomics data analysis
-•	Single-cell data integration and multi-modal analysis using scArches
-•	Experienced in programming languages (Python and R)
-•	Data classification
-•	Perturbation analysis
-•	Primer designing
-•	qPCR	
-•	ELISA	
-•	Cell culture	
-•	MIC/MBC 
-•	Proficient in Microsoft word, PowerPoint, Excel, Adobe Illustrator, and PRISM
+- Micro Array, Bulk, Single-cell RNA-seq and Spatial transcriptomics data analysis
+-	Single-cell data integration and multi-modal analysis using scArches
+-	Experienced in programming languages (Python and R)
+-	Data classification
+-	Perturbation analysis
+-	ELISA	
+-	MIC/MBC 
+-	Proficient in Microsoft word, PowerPoint, Excel, Adobe Illustrator, and PRISM
 
 ## Honors and Awards
-•	Best Oral Presenter in the 9th International Congress of Medical Student		           2022
-•	Best Researcher at Birjand University of Medical Sciences (BUMS)	                        2022
-•	Best Researcher at Birjand University of Medical Sciences (BUMS)	                        2023
-•	Best Researcher of Iran among undergraduate students			                        2023
+-	Best Oral Presenter in the 9th International Congress of Medical Student		           2022
+-	Best Researcher at Birjand University of Medical Sciences (BUMS)	                        2022
+-	Best Researcher at Birjand University of Medical Sciences (BUMS)	                        2023
+-	Best Researcher of Iran among undergraduate students			                        2023
 
 ## Publications
 
