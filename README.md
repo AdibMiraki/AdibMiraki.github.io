@@ -35,7 +35,7 @@ Hi! I'm Adib Miraki, a computational biologist from Sanger Institute who works o
 
 •	**Adib Miraki Feriz**., Bahraini, F., Khosrojerdi, A., Azarkar, S., Sajjadi, S.M., HosseiniGol, E., Honardoost, M.A., Saghafi, S., Silvestris, N., Leone, P. and Safarpour, H., 2023. Deciphering the immune landscape of head and neck squamous cell carcinoma: A single-cell transcriptomic analysis of regulatory T cell responses to PD-1 blockade therapy. Plos one, 18(12), p.e0295863.
 
-• **Feriz AM**, Khosrojerdi A, Erfanian N, Azarkar S, Sajjadi SM, Shojaei MJ, Vaferi MJ, Safarpour H, Racanelli V. Targeting the dynamic transcriptional landscape of Treg subpopulations in pancreatic ductal adenocarcinoma: Insights from single-cell RNA sequencing analysis with a focus on CTLA4 and TIGIT. Immunobiology. 2024 Jun 4:152822.
+• **Adib Miraki Feriz**, Khosrojerdi A, Erfanian N, Azarkar S, Sajjadi SM, Shojaei MJ, Vaferi MJ, Safarpour H, Racanelli V. Targeting the dynamic transcriptional landscape of Treg subpopulations in pancreatic ductal adenocarcinoma: Insights from single-cell RNA sequencing analysis with a focus on CTLA4 and TIGIT. Immunobiology. 2024 Jun 4:152822.
 
 •	Erfanian, N., Nasseri, S., **Adib Miraki Feriz**., Safarpour, H. and Namaie, M.H., 2023. Characterization of Wnt signaling pathway under treatment of Lactobacillus acidophilus postbiotic in colorectal cancer using an integrated in silico and in vitro analysis. Scientific Reports, 13(1), p.22988.
 
