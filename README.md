@@ -35,6 +35,8 @@ Hi! I'm Adib Miraki, a computational biologist from Sanger Institute who works o
 
 •	**Adib Miraki Feriz**., Bahraini, F., Khosrojerdi, A., Azarkar, S., Sajjadi, S.M., HosseiniGol, E., Honardoost, M.A., Saghafi, S., Silvestris, N., Leone, P. and Safarpour, H., 2023. Deciphering the immune landscape of head and neck squamous cell carcinoma: A single-cell transcriptomic analysis of regulatory T cell responses to PD-1 blockade therapy. Plos one, 18(12), p.e0295863.
 
+• **Feriz AM**, Khosrojerdi A, Erfanian N, Azarkar S, Sajjadi SM, Shojaei MJ, Vaferi MJ, Safarpour H, Racanelli V. Targeting the dynamic transcriptional landscape of Treg subpopulations in pancreatic ductal adenocarcinoma: Insights from single-cell RNA sequencing analysis with a focus on CTLA4 and TIGIT. Immunobiology. 2024 Jun 4:152822.
+
 •	Erfanian, N., Nasseri, S., **Adib Miraki Feriz**., Safarpour, H. and Namaie, M.H., 2023. Characterization of Wnt signaling pathway under treatment of Lactobacillus acidophilus postbiotic in colorectal cancer using an integrated in silico and in vitro analysis. Scientific Reports, 13(1), p.22988.
 
 •	Sanadgol, N., **Adib Miraki Feriz**., Lisboa, S.F. and Joca, S.R., 2023. Putative role of glial cells in treatment resistance depression: An updated critical literation review and evaluation of single-nuclei transcriptomics data. Life Sciences, 331, p.122025.
@@ -46,7 +48,6 @@ Hi! I'm Adib Miraki, a computational biologist from Sanger Institute who works o
 •	Safarpour, H., Ranjbaran, J., Erfanian, N., Nomiri, S., Derakhshani, A., Gerarduzzi, C., **Adib Miraki Feriz**., HosseiniGol, E., Saghafi, S. and Silvestris, N., Holistic exploration of CHGA and hsa-miR-137 in colorectal cancer via multi-omic data Integration. Heliyon
 
 ## Under Review Papers
-•	Targeting the Dynamic Transcriptional Landscape of Treg Subpopulations in Pancreatic Ductal Adenocarcinoma: Insights from Single-cell RNA Sequencing Analysis with a Focus on CTLA4 and TIGIT. First Author. **Immunobiology**.
 
 •	Unveiling the Impact of Microglial Cells in Alzheimer's Disease Pathogenesis: Insights from Single-Cell RNA-seq Analysis and In Vivo Validation. Co-First Author. **Molecular Neurobiology**.
 
