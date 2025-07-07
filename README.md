@@ -1,26 +1,26 @@
-Hi! I'm Adib Miraki, a computational biologist  who works on single cell/spatial transcriptomics.
+Hey there! 👋 I'm **Adib Miraki**, a passionate **Bioinformatician** working with the Lotfollahi Lab at the **Sanger** **Institute**.
+
+By day, I dive deep into the world of single-cell and spatial transcriptomics, using machine learning and AI to uncover the hidden language of cells, predicting how they behave, interact, and evolve across different environments. Think of it as giving cells their own digital voice and letting data science do the talking!
+
+By night (or when I’m not glued to my screen), you'll probably find me either kicking a football, cheering on my favorite team, or cruising around on a cycling adventure, chasing the wind and exploring new routes. 🧬⚽🚴
+
+Always curious, always caffeinated, I love combining science, tech, and creativity to solve complex biological puzzles.
+
+Let’s connect and chat about cells, science, or sports — your pick!
+
 
 ## Education
 - BSc of Medical Lab Sciences (Birjand University of Medical Sciences) 2019 - 2023 (Grade A)
   
-
-## Key Skills
-- Micro Array, Bulk, Single-cell RNA-seq and Spatial transcriptomics data analysis
--	Single-cell data integration and multi-modal analysis using scArches
--	Experienced in programming languages (Python and R)
--	Data classification
--	Perturbation analysis
--	ELISA	
--	MIC/MBC 
--	Proficient in Microsoft word, PowerPoint, Excel, Adobe Illustrator, and PRISM
-
 ## Honors and Awards
 -	Best Oral Presenter in the 9th International Congress of Medical Student		           2022
 -	Best Researcher at Birjand University of Medical Sciences (BUMS)	                        2022
 -	Best Researcher at Birjand University of Medical Sciences (BUMS)	                        2023
 -	Best Researcher of Iran among undergraduate students			                        2023
+-	Rank 2nd in AI Hackathon at Birjand University of Medical Sciences (BUMS)		           2025
 
 ## Publications
+• Birk, S., Bonafonte-Pardàs, I., **Adib Miraki Feriz**, Boxall, A., Agirre, E., Memi, F., ... & Lotfollahi, M. (2025). Quantitative characterization of cell niches in spatially resolved omics data. Nature Genetics, 1-13.
 
 •	**Adib Miraki Feriz**., Khosrojerdi, A., Lotfollahi, M., Shamsaki, N., GhasemiGol, M., HosseiniGol, E., Fereidouni, M., Rohban, M.H., Sebzari, A.R., Saghafi, S. and Leone, P., 2023. Single-cell RNA sequencing uncovers heterogeneous transcriptional signatures in tumor-infiltrated dendritic cells in prostate cancer. Heliyon.
 
@@ -39,12 +39,6 @@ Hi! I'm Adib Miraki, a computational biologist  who works on single cell/spatial
 •	Safarpour, H., Ranjbaran, J., Erfanian, N., Nomiri, S., Derakhshani, A., Gerarduzzi, C., **Adib Miraki Feriz**., HosseiniGol, E., Saghafi, S. and Silvestris, N., Holistic exploration of CHGA and hsa-miR-137 in colorectal cancer via multi-omic data Integration. Heliyon
 
 •	Derakhshani, A., Asadzadeh, Z., Baradaran, B., Safarpour, H., Rahmani, S., Leone, P., Shadbad, M.A., Hosseinkhani, N., Ghasemigol, M., Ayromlou, H. and Ahmadi, H., 2022. The expression pattern of VISTA in the PBMCs of relapsing-remitting multiple sclerosis patients: A single-cell RNA sequencing-based study. Biomedicine & Pharmacotherapy, 148, p.112725.
-
-## Under Review Papers
-
-•	Unveiling the Impact of Microglial Cells in Alzheimer's Disease Pathogenesis: Insights from Single-Cell RNA-seq Analysis and In Vivo Validation. Co-First Author. **Molecular Neurobiology**.
-
-•	Large-scale characterization of cell niches in spatial atlases using bio-inspired graph learning. Third Author. **Nature Genetics**.
 
 
 
