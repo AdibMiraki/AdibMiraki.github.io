@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/AdibMiraki/AdibMiraki.github.io/blob/main/banner.svg" width="100%" alt="Adib Miraki Feriz — Gene Banner"/>
+<img src="[https://github.com/AdibMiraki/AdibMiraki.github.io/blob/main/banner.svg](https://raw.githubusercontent.com/AdibMiraki/AdibMiraki.github.io/main/banner.svg)" width="100%" alt="Adib Miraki Feriz — Gene Banner"/>
 
 </div>
 
