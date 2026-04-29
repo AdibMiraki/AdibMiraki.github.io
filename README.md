@@ -8,8 +8,8 @@
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-am60%40sanger.ac.uk-0f2027?style=flat-square&logo=gmail&logoColor=white)](mailto:am74@sanger.ac.uk)
-[![Sanger Institute](https://img.shields.io/badge/Sanger_Institute-Lotfollahi_Lab-2c5364?style=flat-square&logo=dna&logoColor=white)](https://www.sanger.ac.uk/)
+[![Email](https://img.shields.io/badge/Email-am74%40sanger.ac.uk-0f2027?style=flat-square&logo=gmail&logoColor=white)](mailto:am74@sanger.ac.uk)
+[![Sanger Institute](https://img.shields.io/badge/Sanger_Institute-Lotfollahi_Lab-2c5364?style=flat-square&logo=dna&logoColor=white)]([https://www.sanger.ac.uk/](https://lotfollahi.com/Lab/))
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-Publications-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=Xz60exkAAAAJ&view_op=list_works)
 
 </div>
