@@ -173,7 +173,7 @@ My research focuses on decoding the language of cells — predicting how they be
 
 | Name | Role |
 |------|------|
-| **Prof. Muzlifah Haniffa** | Senior Group Leader, Wellcome Sanger Institute & Newcastle University |
+| **Prof. Muzlifah Haniffa** | Senior Group Leader, Wellcome Sanger Institute & University of Cambridge |
 | **Dr. Ömer Ali Bayraktar** | Group Leader, Wellcome Sanger Institute |
 | **Dr. Mohammad Lotfollahi** | Group Leader, Wellcome Sanger Institute (Supervisor) |
 
