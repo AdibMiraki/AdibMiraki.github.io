@@ -1,19 +1,18 @@
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Adib%20Miraki%20Feriz&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=Bioinformatician%20%7C%20Sanger%20Institute&descColor=a8d8ea&descAlignY=60" />
-
-</div>
-
 <br/>
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-am74%40sanger.ac.uk-0f2027?style=flat-square&logo=gmail&logoColor=white)](mailto:am74@sanger.ac.uk)
-[![Sanger Institute](https://img.shields.io/badge/Sanger_Institute-Lotfollahi_Lab-2c5364?style=flat-square&logo=dna&logoColor=white)]([https://www.sanger.ac.uk/](https://lotfollahi.com/Lab/))
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Publications-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=Xz60exkAAAAJ&view_op=list_works)
-
+<a href="mailto:am74@sanger.ac.uk">
+  <img src="https://img.shields.io/badge/Email-am74%40sanger.ac.uk-0f2027?style=flat-square&logo=gmail&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://lotfollahi.com/Lab/">
+  <img src="https://img.shields.io/badge/Sanger_Institute-Lotfollahi_Lab-2c5364?style=flat-square&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://scholar.google.com/citations?hl=en&user=Xz60exkAAAAJ&view_op=list_works">
+  <img src="https://img.shields.io/badge/Google_Scholar-Publications-4285F4?style=flat-square&logo=google-scholar&logoColor=white" />
+</a>
 </div>
-
 ---
 
 ## 👋 About Me
