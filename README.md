@@ -54,7 +54,7 @@ My research focuses on decoding the language of cells — predicting how they be
     Research Intern                                               Oct 2022 – Jan 2023
 
 🧫  Cellular & Molecular Research Center, BUMS
-    Research Associate                                            Apr 2021 – Sep 2022
+    Research Assistant                                            Apr 2021 – Sep 2022
 ```
 
 ---
