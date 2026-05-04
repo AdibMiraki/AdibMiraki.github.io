@@ -485,9 +485,7 @@
   <div class="hero fade-in">
     <div class="photo-ring">
       <div class="photo-inner">
-        <!-- Replace src with your real photo URL, e.g. src="https://your-photo-url.jpg" -->
-        <div class="photo-placeholder">Adib Miraki</div>
-         <img src="https://github.com/AdibMiraki/AdibMiraki.github.io/blob/main/6035037811414601115.jpg" alt="Adib Miraki Feriz" />
+        <img src="https://raw.githubusercontent.com/AdibMiraki/AdibMiraki.github.io/main/6035037811414601115.jpg" alt="Adib Miraki Feriz" />
       </div>
     </div>
 
