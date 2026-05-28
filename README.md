@@ -75,6 +75,12 @@ My research focuses on decoding the language of cells — predicting how they be
 
 ---
 
+**Akbarnejad A.\*, Steele L.\*, He Z.\*, Jafree D.J.\*, Birk S.\*, Leonardi C.\*, Sallese M.R.\*, Boxall A., Miraki Feriz A., Raghubar A.M., Vaghari D., Gopee N.H., Rademaker K., Rumney B., Tudor C., Patel M., Prete M., Makarchuk S., Lee C.Y.C., Maaskola J., Li T., Stanley H., Foster A.R., Roberts K., Trinh A.L., Villa C.E., Testa G., Mahil S., Mehrjou A., Smith C., Vakili S., Jones J.O., Stewart G.D., Clatworthy M.R., Bayraktar O.A., Mitchell T., Haniffa M., Lotfollahi M.**  
+*Mapping and reprogramming human tissue microenvironments with MintFlow.*  
+**bioRxiv** 2025 — ⭐ *Under review at **Nature*** · [📄 Paper Link](https://doi.org/10.1101/2025.06.24.661094)
+
+---
+
 ### 2025
 
 **Birk S., Bonafonte-Pardàs I., Miraki Feriz A., Boxall A., Agirre E., Memi F., ... & Lotfollahi M.**  
